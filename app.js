@@ -1,5 +1,5 @@
-var Legendary_RATE = 0.04;
-var Rare_RATE = 0.43;
+var Legendary_RATE = 0.02;
+var Rare_RATE = 0.2;
 var Common_RATE = 0.53;
 
 function init(data) {

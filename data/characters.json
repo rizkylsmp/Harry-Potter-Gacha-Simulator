@@ -17,32 +17,43 @@
       "image": "https://ik.imagekit.io/hpapi/draco.jpg"
     },
     {
-      "name": "Minerva McGonagall",
-      "image": "https://ik.imagekit.io/hpapi/mcgonagall.jpg"
+      "name": "Rubeus Hagrid",
+      "image": "https://ik.imagekit.io/hpapi/hagrid.png"
+    },
+    {
+      "name": "Severus Snape",
+      "image": "https://ik.imagekit.io/hpapi/snape.jpg"
+    },
+    {
+      "name": "Sirius Black",
+      "image": "https://ik.imagekit.io/hpapi/sirius.JPG"
+    },
+    {
+      "name": "Lord Voldemort",
+      "image": "https://ik.imagekit.io/hpapi/voldemort.jpg"
+    },
+    {
+      "name": "Lucius Malfoy",
+      "image": "https://ik.imagekit.io/hpapi/lucius.jpg"
+    }
+  ],
+  "Rare": [
+    {
+      "name": "Cho Chang",
+      "image": "https://ik.imagekit.io/hpapi/cho.jpg"
     },
     {
       "name": "Cedric Diggory",
       "image": "https://ik.imagekit.io/hpapi/cedric.png"
     },
     {
-      "name": "Cho Chang",
-      "image": "https://ik.imagekit.io/hpapi/cho.jpg"
-    },
-    {
-      "name": "Severus Snape",
-      "image": "https://ik.imagekit.io/hpapi/snape.jpg"
-    }
-  ],
-  "Rare": [
-    {
-      "name": "Rubeus Hagrid",
-      "image": "https://ik.imagekit.io/hpapi/hagrid.png"
+      "name": "Minerva McGonagall",
+      "image": "https://ik.imagekit.io/hpapi/mcgonagall.jpg"
     },
     {
       "name": "Neville Longbottom",
       "image": "https://ik.imagekit.io/hpapi/neville.jpg"
     },
-
     {
       "name": "Luna Lovegood",
       "image": "https://ik.imagekit.io/hpapi/luna.jpg"
@@ -50,10 +61,6 @@
     {
       "name": "Ginny Weasley",
       "image": "https://ik.imagekit.io/hpapi/ginny.jpg"
-    },
-    {
-      "name": "Sirius Black",
-      "image": "https://ik.imagekit.io/hpapi/sirius.JPG"
     },
     {
       "name": "Remus Lupin",
@@ -66,11 +73,9 @@
     {
       "name": "Bellatrix Lestrange",
       "image": "https://ik.imagekit.io/hpapi/bellatrix.jpg"
-    },
-    {
-      "name": "Lord Voldemort",
-      "image": "https://ik.imagekit.io/hpapi/voldemort.jpg"
-    },
+    }
+  ],
+  "Common": [
     {
       "name": "Horace Slughorn",
       "image": "https://ik.imagekit.io/hpapi/slughorn.JPG"
@@ -78,16 +83,10 @@
     {
       "name": "Kingsley Shacklebolt",
       "image": "https://ik.imagekit.io/hpapi/kingsley.jpg"
-    }
-  ],
-  "Common": [
+    },
     {
       "name": "Dolores Umbridge",
       "image": "https://ik.imagekit.io/hpapi/umbridge.jpg"
-    },
-    {
-      "name": "Lucius Malfoy",
-      "image": "https://ik.imagekit.io/hpapi/lucius.jpg"
     },
     {
       "name": "Vincent Crabbe",
